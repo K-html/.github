@@ -7,6 +7,15 @@
 
 <br/>
 
+<h2 tabindex="-1" class="heading-element" dir="auto">서비스 소개</h2>
+<blockquote>
+<p dir="auto">💡 내가 누릴 수 있는 혜택이 뭐가 있는지 가늠하기 어려운 요즘 사용자에게 알맞은 정보를 맞춤형 인공지능 정보 안내 서비스 💡</p>
+</blockquote>
+<blockquote>
+<p dir="auto">다누려는 사용자가 선택한 관심 키워드에 따라 맞춤형 정보를 제공하고, 사용자의 질문에 적합한 혜택 정보를 안내하는 인공지능 기반의 서비스입니다 </p>
+</blockquote>
+<p dir="auto">&nbsp;</p>
+
 ## 👨‍💻 Member
 
 <table>
@@ -89,6 +98,34 @@
 </table>
 
 <br/>
+
+<h2 tabindex="-1" class="heading-element" dir="auto">기획 배경</h2>
+<ul dir="auto">
+<li>
+<p dir="auto">정보화 시대가 빠르게 발전함에 따라 <strong>정보 취약 계층이 직면하는 어려움</strong>은 더욱 심화되고 있습니다. 이는 고령화, 부족한 인프라, 행정 인력의 한계로 인해 많은 사람들이 자신에게 주어진 정책과 복지 혜택을 충분히 누리지 못하고 있다는것을 의미하기도 합니.</p>
+</li>
+<li>
+<p dir="auto">특히, <strong>고령 인구뿐만 아니라 IT 기기 활용이 미숙한 이들</strong> 역시 정보망에서 소외되고 있습니다. 이로 인해 많은 사람들이 자신에게 주어진 혜택을 놓치는 현실입니다.</p>
+</li>
+<li>
+<p dir="auto">자신이 받을 수 있는 혜택을 파악하는 것은 점점 더 어려워지고 있으며, 복지와 정책의 유형이 증가함에 따라 <strong>모든 정보를 파악하고 이해하는 것</strong>이 힘들어졌습니다.</p>
+</li>
+<li>
+<p dir="auto">이에 따라, <strong>정보 취약 계층을 대상으로 맞춤형 정보를 제공</strong>하고, 사용자의 질문에 따라 적합한 혜택 정보를 안내하는 인공지능 기반 서비스인 <strong>‘다누려’</strong>를 기획하게 되었습니다.</p>
+</li>
+<li>
+<p dir="auto">이 서비스는 <strong>사용자가 관심 있는 주제와 관련된 정보를 손쉽게 확인</strong>할 수 있도록 도와주며, 이를 통해 <strong>개인의 삶의 질을 높이는 것</strong>을 목표로 합니다.</p>
+</li>
+<li>
+<p dir="auto">또한, <strong>국가 및 지방자치단체의 효율적인 복지 서비스 홍보</strong>와 <strong>행정 비용 절감</strong>에도 기여할 수 있습니다.</p>
+</li>
+<li>
+<p dir="auto">이에 <strong>지속적이고 효과적인 방식으로 정보 취약 계층에게 맞춤형 혜택을 제공할 수 있는 서비스의 필요성</strong>을 느껴, <strong>인공지능 기반의 맞춤형 정보 안내 서비스 ‘다누려’를 기획</strong>하였습니다.</p>
+</li>
+</ul>
+
+<h2 tabindex="-1" class="heading-element" dir="auto">핵심 기능</h2>
+
 
 ## 🛠️ System Architecture
 
