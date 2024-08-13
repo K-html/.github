@@ -1,3 +1,4 @@
+
 # 다누려 : Enjoy All
 
 <img src="https://github.com/K-html/.github/blob/main/profile/enjoy-all%20banner.jpg?raw=true"/>
@@ -206,7 +207,7 @@
       System Architecture
     </td>
     <td align=center>
-      AI System Flow Chart
+      RAG Flow Chart
     </td>
   </tr>
   <tr>
