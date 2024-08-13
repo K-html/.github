@@ -10,7 +10,7 @@
 > **WITH** (Kangnam University)
 
 ## 📌 Subject
-> **subject**
+> **디지털 취약 계층을 위한 AI 복지 플랫폼**
 
 <br/>
 
@@ -140,31 +140,82 @@
 </li>
 </ul>
 
-<h2 tabindex="-1" class="heading-element" dir="auto">핵심 기능</h2>
-<ul dir="auto">
-<img src=https://github.com/user-attachments/assets/cd9e09a4-a93b-43f8-90af-f189ab270948>
-<li><strong>간편한 소셜 로그인</strong>을 통해 디지털 취약계층도 쉽게 서비스에 접근할 수 있습니다.</li>
-<br>
-<img src=https://github.com/user-attachments/assets/2a05440c-e8a4-4d2d-8077-af320ea9e833>
-<li>사용자는 자신의 <strong>관심 키워드</strong>를 선택하여 맞춤형 혜택 정보를 설정할 수 있습니다.</li>
-<br>
-<img src=https://github.com/user-attachments/assets/fc470dde-16fe-469f-9338-12a97fdd4f58>
-<li>선택된 키워드를 기반으로 <strong>혜택 요약 안내</strong>를 통해 관련된 혜택 정보를 한눈에 파악할 수 있습니다.</li>
-<li>사용자는 <strong>인기 혜택</strong>과 <strong>마감 순 혜택</strong>을 조회하여 중요한 혜택을 놓치지 않고 확인할 수 있습니다.</li>
-<li>마음에 드는 혜택이나 중요한 정보를 <strong>북마크</strong>하여 언제든지 다시 확인할 수 있습니다.</li>
-<br>
-<img src=https://github.com/user-attachments/assets/ace1b7ea-c947-414d-a32e-944fd13dd8fa>
-<li>마음에 드는 정보를 클릭하여 상세페이지로 이동하고, 해당 정보의 자세한 내용을 확인할 수 있습니다.</li>
-<br>
-<img src=https://github.com/user-attachments/assets/8ec967c5-e73f-4a0f-9d0e-225636eec0b2>
-<li><strong>인공지능 챗봇</strong>을 통해 사용자가 궁금한 점이나 관심 있는 행사에 대해 질문하면, 맞춤형 혜택 정보를 신속하게 제공합니다.</li>
-<br>
-<li>챗봇은 사용자의 <strong>연령, 거주지 등 특징을 반영한 맞춤형 혜택</strong>을 안내합니다.</li>
 
-</ul>
+## 핵심 기능
+
+<table>
+  <tr>
+    <td>
+      <img src=https://github.com/user-attachments/assets/cd9e09a4-a93b-43f8-90af-f189ab270948>
+    </td>
+    <td>
+      <img src=https://github.com/user-attachments/assets/2a05440c-e8a4-4d2d-8077-af320ea9e833>
+    </td>
+    <td>
+      <img src=https://github.com/user-attachments/assets/fc470dde-16fe-469f-9338-12a97fdd4f58>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      간편한 소셜 로그인</strong>을 통해 디지털 취약계층도 쉽게 서비스에 접근할 수 있습니다.
+    </td>
+    <td>
+      사용자는 자신의 <strong>관심 키워드</strong>를 선택하여 맞춤형 혜택 정보를 설정할 수 있습니다.
+    </td>
+    <td>
+      - 선택된 키워드를 기반으로 <strong>혜택 요약 안내</strong>를 통해 관련된 혜택 정보를 한눈에 파악할 수 있습니다.<br>
+      - 사용자는 <strong>인기 혜택</strong>과 <strong>마감 순 혜택</strong>을 조회하여 중요한 혜택을 놓치지 않고 확인할 수 있습니다.<br>
+      - 마음에 드는 혜택이나 중요한 정보를 <strong>북마크</strong>하여 언제든지 다시 확인할 수 있습니다.
+    </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src=https://github.com/user-attachments/assets/ace1b7ea-c947-414d-a32e-944fd13dd8fa>
+    </td>
+    <td>
+      <img src=https://github.com/user-attachments/assets/8ec967c5-e73f-4a0f-9d0e-225636eec0b2>
+    </td>
+  </tr>
+  <tr>
+    <td>     
+      사용자는 마음에 드는 혜택이나 정보를 클릭하여 해당 내용에 대한 상세한 설명을 확인할 수 있습니다
+    </td>
+    <td>
+      - <strong>인공지능 챗봇</strong>을 통해 사용자가 궁금한 점이나 관심 있는 행사에 대해 질문하면, 맞춤형 혜택 정보를 신속하게 제공합니다.<br>
+      - 챗봇은 사용자의 <strong>연령, 거주지 등 특징을 반영한 맞춤형 혜택</strong>을 안내합니다.
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 ## 🛠️ System Architecture
 
-<img src="https://github.com/K-html/.github/blob/main/profile/enjoy-all%20system%20architecture%20configuration%20chart.png?raw=true"/>
+<table>
+  <tr>
+    <td align=center>
+      System Architecture
+    </td>
+    <td align=center>
+      AI System Flow Chart
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/K-html/.github/blob/main/profile/enjoy-all%20system%20architecture%20configuration%20chart.png?raw=true"/>
+    </td>
+    <td>
+      <img src="https://github.com/K-html/.github/blob/main/profile/enjoy-all%20ai%20architecture%20flow%20chart.png?raw=true"/>
+    </td>
+  </tr>
+</table>
 <br/>
