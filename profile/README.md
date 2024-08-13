@@ -66,7 +66,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
     </td>
     <td>
-      - 카카오 소셜 로그인 
+      - Kakao Flutter SDK를 사용하여 간편하고 빠른 소셜 로그인 기능 구현<br/>
+      - 상태 관리를 통해 즐겨찾기, 키워드 선택, 사용자 설정 등을 로컬에 저장하여 지속적으로 데이터 관리<br/>
+      - ChatGPT 기반 AI 챗봇과의 채팅 및 음성 녹음을 통한 상호작용 기능 구현<br/>
+      - 사용자 인터페이스와 경험을 고려한 UI/UX 설계 및 구현<br/>
+      - Navigator를 활용한 페이지 전환 관리로 사용자 흐름에 맞춘 앱 내 이동성 최적화
     </td>
   </tr>
   <tr>
