@@ -87,8 +87,8 @@
 ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
     </td>
     <td>
-     - Selenium을 활용한 복지 포털 '복지로' 동적 크롤링
-     - NCP, GCP 간 통신 및 사용자 소셜로그인을 위한 JWT 인증 방식
+     - Selenium을 활용한 복지 포털 '복지로' 동적 크롤링<br/>
+     - NCP, GCP 간 통신 및 사용자 소셜로그인을 위한 JWT 인증 방식<br/>
      - Docker, GitHub Actions을 사용한 블루-그린 무중단 배포
     </td>
   </tr>
