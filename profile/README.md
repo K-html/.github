@@ -1,20 +1,18 @@
-
-# 다누려 (Enjoy All)
+# 다누려 : Enjoy All
 
 <img src="https://github.com/K-html/.github/blob/main/profile/enjoy-all%20banner.jpg?raw=true"/>
 
 >  **2024 용인 K-HTML HACKATHON** <br/> **2024.08.12 ~ 2024.08.14**
 
-<br/>
+<br>
 
-<h2 tabindex="-1" class="heading-element" dir="auto">서비스 소개</h2>
-<blockquote>
-<p dir="auto">💡 내가 누릴 수 있는 혜택이 뭐가 있는지 가늠하기 어려운 요즘 사용자에게 알맞은 정보를 맞춤형 인공지능 정보 안내 서비스 💡</p>
-</blockquote>
-<blockquote>
-<p dir="auto">다누려는 사용자가 선택한 관심 키워드에 따라 맞춤형 정보를 제공하고, 사용자의 질문에 적합한 혜택 정보를 안내하는 인공지능 기반의 서비스입니다 </p>
-</blockquote>
-<p dir="auto">&nbsp;</p>
+## 🤝 Team
+> **WITH** (Kangnam University)
+
+## 📌 Subject
+> **subject**
+
+<br/>
 
 ## 👨‍💻 Member
 
@@ -32,13 +30,24 @@
     <td><img src="https://avatars.githubusercontent.com/u/87220966?v=4"></td>
   </tr>
   <tr>
-    <td align=center>  </td>
-    <td align=center>  </td>
-    <td align=center>  </td>
-    <td align=center>  </td>
+    <td align=center>
+      
+[![Github](https://img.shields.io/badge/minuum-434343?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minuum)
+    </td>
+    <td align=center>
+      
+[![Github](https://img.shields.io/badge/rogi_rogi-434343?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogi-rogi)
+    </td>
+    <td align=center>
+
+[![Github](https://img.shields.io/badge/lydbsdud-434343?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lydbsdud)  
+    </td>
+    <td align=center>
+
+[![Github](https://img.shields.io/badge/StyxWORKSPACE-434343?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StyxWORKSPACE)
+    </td>    
   </tr>
 </table>
-
 
 
 
@@ -54,6 +63,9 @@
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+    </td>
+    <td>
+      - 카카오 소셜 로그인 
     </td>
   </tr>
   <tr>
@@ -73,6 +85,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>
@@ -82,6 +96,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google_Vertex_AI](https://img.shields.io/badge/Google_Vertex_AI_Server-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+    </td>
+    <td>
     </td>
   </tr>
   <tr>
